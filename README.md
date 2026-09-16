@@ -6,3 +6,6 @@ Answers. Signed consent forms, survey responses, interview transcripts and photo
 
 3. Why is it important to have a good naming convention?
 Answers. Clear and consistent file names help us understand what each file contains and which version it is. They also make files easier to find and reduce the chance of using the wrong one.
+
+4. Under what scenarios, creating a new branch would be useful? (2-3 sentences)
+Answers. Separate branches let team members work on different features without changing the main version straight away. This keeps each feature's changes organised and makes them easier to review and test before merging.
